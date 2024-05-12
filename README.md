@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinit shukla.
-- 🎓I am currently pursuing my B.Tech from NIT Agartala.
+- 🎓I am a B.Tech graduate from NIT Agartala.
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently learning web developing.
+- 🌱 I’m a full stack web developer.
 
 <!---
 Vinitshukla7084/Vinitshukla7084 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
